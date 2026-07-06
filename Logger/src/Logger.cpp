@@ -1,5 +1,4 @@
-#include <logger/Logger.hpp>
-#include  <logger/LogLevel.hpp>
+#include "logger/Logger.hpp"
 #include<iostream>
 void Logger::trace(std::string_view message){
     Logger::log(LogLevel::Trace,message);
