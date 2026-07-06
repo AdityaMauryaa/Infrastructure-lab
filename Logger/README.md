@@ -13,6 +13,7 @@ Create a library that can be reused in future personal and professional projects
 # Basic Logger - Should work like a MVP.
 
 * [ ] Logger class // This 
+    # 
 * [ ] Logger initialization
 * [ ] Console logging
 * [ ] File logging
