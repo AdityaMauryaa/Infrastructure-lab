@@ -8,21 +8,6 @@ Design clean and extensible APIs.
 Understand multithreading, synchronization, and asynchronous programming.
 Explore high-performance systems programming techniques.
 Create a library that can be reused in future personal and professional projects.
-# Design Principles
-The logger should be:
-
-* Lightweight
-* Fast
-* Thread-safe
-* Extensible
-* Easy to integrate
-* Easy to configure
-* Modular
-* Cross-platform (where possible)
-* Production-inspired
-
----
-
 # Expected minimum features
 
 # Basic Logger - Should work like a MVP.
@@ -33,7 +18,7 @@ The logger should be:
 * [ ] File logging
 * [ ] Log flushing
 * [ ] Timestamp support
-* [ ] Log levels
+*  Log levels
 * [ ] TRACE
 * [ ] DEBUG
 * [ ] INFO
