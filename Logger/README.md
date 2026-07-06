@@ -12,18 +12,18 @@ Create a library that can be reused in future personal and professional projects
 
 # Basic Logger - Should work like a MVP.
 
-* [ ] Logger class // This 
-    # 
-* [ ] Logger initialization
-* [ ] Console logging
-* [ ] File logging
-* [ ] Log flushing
-* [ ] Timestamp support
-*  Log levels
-* [ ] TRACE
-* [ ] DEBUG
-* [ ] INFO
-* [ ] WARN
-* [ ] ERROR
-* [ ] FATAL
-* [ ] Basic message formatting
+[x] Logger class
+[x] Logger initialization (manual construction: Logger logger;)
+[x] Console logging
+[ ] File logging
+[ ] Log flushing
+[ ] Timestamp support
+Log Levels
+[x] TRACE
+[x] DEBUG
+[x] INFO
+[x] WARN
+[x] ERROR
+[x] FATAL
+Formatting
+[x] Basic message formatting ([LEVEL] message)
